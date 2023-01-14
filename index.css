@@ -12,11 +12,11 @@ body {
     height: 175px;
     width: 200px;
     border-radius: 50%;
-    border: 5px solid #5ccb5c;
+    border: 5px solid #49F249;
 }
 
 .links {
-    color:#5ccb5c;
+    color: #00F000;
     text-decoration: none;
 }
 
